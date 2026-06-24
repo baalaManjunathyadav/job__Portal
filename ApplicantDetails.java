@@ -20,5 +20,6 @@ public class ApplicantDetails{
         System.out.println("passedout is "+this.passedout);
         System.out.println("cgpa is "+this.cgpa);
         System.out.println("jobid is "+this.jobid);
+        System.out.println("----------------------------------------------------------");
     }
 }
