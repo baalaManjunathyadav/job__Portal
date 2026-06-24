@@ -31,7 +31,6 @@ public class Applicant {
                 System.out.println("no jobs found");
             }
         }
-
     }
 
 
