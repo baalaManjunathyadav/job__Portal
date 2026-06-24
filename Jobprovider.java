@@ -15,7 +15,6 @@ public class Jobprovider {
         String Company=sc.nextLine();
         System.out.println("enter year");
         int year=sc.nextInt();
-        sc.nextLine();
         jobs.add(new Job(id,role,salary,skill,Company,year));
         System.out.println("job added successfully");
         System.out.println("----------------------");
