@@ -34,7 +34,7 @@ public class Main{
                         case 3:
                           jb.ViewApplicants(applications);
                         case 4:
-                            System.out.println("Company name 1");
+                            break;
                     default:
                         System.out.println("enter valid option");
                         break;
