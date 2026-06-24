@@ -1,12 +1,11 @@
 import java.util.*;
 public class Applicant {
     public void seekerapplications(ArrayList<ApplicantDetails>applications,Scanner sc){
-        sc.nextInt();
         System.out.println("enter name");
         String name=sc.nextLine();
         System.out.println("enter phno");
         long phno=sc.nextInt();
-        sc.nextInt();
+        sc.nextLine();
         System.out.println("enter the email");
         String email=sc.nextLine();
         System.out.println("enter the passedout year");
